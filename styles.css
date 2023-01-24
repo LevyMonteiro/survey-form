@@ -65,6 +65,8 @@ button[type="submit"] {
     border: none;
     background-color: #37af65;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
 } 
 
 textarea {
@@ -74,4 +76,6 @@ textarea {
 
 P {
     margin-bottom: 0.5rem;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
 }
